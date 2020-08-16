@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">smsAnalyze</string>
+    <string name="income">Income</string>
+    <string name="expenditure">Expenditure</string>
+</resources>
